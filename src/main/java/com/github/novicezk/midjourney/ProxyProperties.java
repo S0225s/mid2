@@ -188,6 +188,6 @@ public class ProxyProperties {
 		/**
 		 * 任务超时时间(分钟).
 		 */
-		private int timeoutMinutes = 15;
+		private int timeoutMinutes = 10;
 	}
 }
